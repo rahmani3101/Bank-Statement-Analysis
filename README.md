@@ -63,4 +63,3 @@ This Streamlit application enables users to upload their bank statements in PDF 
 - `plotly`: For creating interactive visualizations.
 - `sklearn`: For building and using the Random Forest model.
 
-BLOG- https://link.medium.com/aoQxUW4gFMb
